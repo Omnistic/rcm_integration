@@ -1,1 +1,1 @@
-# rcm_integration
+![Preliminary Diagram](./preliminary_diagram.svg)
